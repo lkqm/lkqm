@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Languages: Java/Python/Golang/JavaScript
+- 🔭 Java/Python/Golang/JavaScript
 - 🌱 I’m currently learning `MongoDB`
 
 <!--
